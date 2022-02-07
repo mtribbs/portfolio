@@ -3,7 +3,7 @@ const Intro = () => {
     <div className="card--me">
       <img src="./images/me.jpg" className="image--me"></img>
       <div className="card--content">
-        <h2>Hi!</h2>
+        <h2>Hi, Therese here</h2>
         <h4>
           I am a front-end developer who works with HTML, CSS, JavaScript and
           React.

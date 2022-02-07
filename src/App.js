@@ -2,18 +2,21 @@ import "./App.css";
 import Intro from "./components/Intro";
 import Nav from "./components/Nav";
 import Skills from "./components/Skills";
+import Projects from "./components/Projects";
 
 function App() {
   return (
     <div className="App">
-      <Nav></Nav>
+      <Nav />
       <div>
-        <Intro></Intro>
+        <Intro />
       </div>
       <div>
-        <Skills></Skills>
+        <Skills />
       </div>
-      <div></div>
+      <div>
+        <Projects />
+      </div>
     </div>
   );
 }

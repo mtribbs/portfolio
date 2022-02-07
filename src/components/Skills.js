@@ -6,28 +6,28 @@ const Skills = () => {
       <h2>Skills</h2>
       <div className="skills--wrapper">
         <div>
-          <FaCircle /> HTML
+          <FaCircle className="circle" /> HTML
         </div>
         <div>
-          <FaCircle /> JavaScript
+          <FaCircle className="circle" /> JavaScript
         </div>
         <div>
-          <FaCircle /> GitHub
+          <FaCircle className="circle" /> GitHub
         </div>
         <div>
-          <FaCircle /> WordPress
+          <FaCircle className="circle" /> WordPress
         </div>
         <div>
-          <FaCircle /> CSS
+          <FaCircle className="circle" /> CSS
         </div>
         <div>
-          <FaCircle /> React
+          <FaCircle className="circle" /> React
         </div>
         <div>
-          <FaCircle /> Sass
+          <FaCircle className="circle" /> Sass
         </div>
         <div>
-          <FaCircle /> Figma
+          <FaCircle className="circle" /> Figma
         </div>
       </div>
     </div>
