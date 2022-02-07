@@ -1,4 +1,4 @@
-const AboutMe = () => {
+const Intro = () => {
   return (
     <div className="card--me">
       <img src="./images/me.jpg" className="image--me"></img>
@@ -18,4 +18,4 @@ const AboutMe = () => {
   );
 };
 
-export default AboutMe;
+export default Intro;

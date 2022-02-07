@@ -44,3 +44,16 @@ light grey: EBE9E9
   background-color: #ebe9e9;
   width: 100vw;
 }
+
+.card--skills {
+  padding: 2rem;
+  border: 1px solid #ebe9e9;
+  border-radius: 16px;
+  width: 60vw;
+}
+
+.skills--wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
