@@ -80,3 +80,8 @@ light grey: EBE9E9
   border-radius: 16px;
   padding: 2rem;
 }
+
+.card--testimonals {
+  max-width: 70vw;
+  width: 100%;
+}
